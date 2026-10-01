@@ -1,0 +1,29 @@
+{
+  "started_at_utc": "2026-09-30T08:49:57.523762+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.3"
+  },
+  "upstream_commit": "60cd5b7530eb954b02ae94da967111f5b5c3c01b",
+  "rows": 8760,
+  "train_raw": 1752,
+  "train_effective": 1732,
+  "test_rows": 7008,
+  "test_start": "2018-03-15 00:30:00",
+  "test_end": "2018-12-31 23:30:00",
+  "source_checksums_verified": true,
+  "local_code_sha256": {
+    "src/enbpi_project/__init__.py": "2ae0695ba6072074b45d5157fd4db91549e8791f642e13ca7834eef0dbb76bcf",
+    "src/enbpi_project/data.py": "c1b9fe7993968109518933fda897453963d617694396236898e37a2f60a630de",
+    "src/enbpi_project/metrics.py": "499759507d644cdaced4beab67ace5df6e8600fdffe6da276355dcd743a96e2b",
+    "src/enbpi_project/model.py": "d3396271b65608aeeff9094954138377e627be0e16141093cce7c592caf4fe93",
+    "scripts/run_experiment.py": "801e61976212a82b27d05a94ed3a1baaa3d2016b3b5097f64c89fdc3f24e6c6e"
+  },
+  "elapsed_seconds": 151.7079372999724,
+  "completed_at_utc": "2026-09-30T08:52:29.231114+00:00"
+}

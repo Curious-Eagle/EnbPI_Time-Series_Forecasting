@@ -1,0 +1,67 @@
+{
+  "repository": "https://github.com/hamrel-cxu/EnbPI",
+  "commit": "60cd5b7530eb954b02ae94da967111f5b5c3c01b",
+  "retrieved_at_utc": "2026-09-30T08:40:53.002493+00:00",
+  "files": [
+    {
+      "url": "https://api.github.com/repos/hamrel-cxu/EnbPI/git/trees/60cd5b7530eb954b02ae94da967111f5b5c3c01b?recursive=1",
+      "path": "references/upstream-tree.json",
+      "bytes": 22286,
+      "sha256": "77d6c3bf97e6c2183ae1b565d93611f895e5ce6eac01233ff30d092c5b01e4e0"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hamrel-cxu/EnbPI/60cd5b7530eb954b02ae94da967111f5b5c3c01b/LICENSE",
+      "path": "references/upstream/LICENSE",
+      "bytes": 1065,
+      "sha256": "511adb90e856e8bdaccb0460d6f4c2b06a368b7aef17c06374a7712b3bd86692"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hamrel-cxu/EnbPI/60cd5b7530eb954b02ae94da967111f5b5c3c01b/README.md",
+      "path": "references/upstream/README.md",
+      "bytes": 9955,
+      "sha256": "8feb3f1f291b707dc1704954f03405bdf80990a0221f548155d39d6bfccaee55"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hamrel-cxu/EnbPI/60cd5b7530eb954b02ae94da967111f5b5c3c01b/PI_class_EnbPI.py",
+      "path": "references/upstream/PI_class_EnbPI.py",
+      "bytes": 25003,
+      "sha256": "2e0ed97623dbe80575870b5751124ed15df4a7789e4e331f38d4ac11d75ca012"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hamrel-cxu/EnbPI/60cd5b7530eb954b02ae94da967111f5b5c3c01b/utils_EnbPI.py",
+      "path": "references/upstream/utils_EnbPI.py",
+      "bytes": 35923,
+      "sha256": "f7ae24e52f36c7aa1904e144eda58721ed2938f1de4b3e370b51ffc1fe99aad3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hamrel-cxu/EnbPI/60cd5b7530eb954b02ae94da967111f5b5c3c01b/tests_paper.py",
+      "path": "references/upstream/tests_paper.py",
+      "bytes": 26089,
+      "sha256": "11f9787010437765a38c60057a45f9fc2222c6f00aff562d9a18ffb51fcf21b7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hamrel-cxu/EnbPI/60cd5b7530eb954b02ae94da967111f5b5c3c01b/Results/Solar_Atl_many_alpha_new.csv",
+      "path": "references/upstream/Results/Solar_Atl_many_alpha_new.csv",
+      "bytes": 17349,
+      "sha256": "14b18ee2f696f9e2dda4c9bfb0ecc5e8e2d555dd2d8877c09a9fe5cf36886f7e"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hamrel-cxu/EnbPI/60cd5b7530eb954b02ae94da967111f5b5c3c01b/Results/Solar_Atl_many_alpha_new_1d.csv",
+      "path": "references/upstream/Results/Solar_Atl_many_alpha_new_1d.csv",
+      "bytes": 17337,
+      "sha256": "ced33f193b6bc94f5f2576637435634532143131648197e726d24278e3a2776c"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hamrel-cxu/EnbPI/60cd5b7530eb954b02ae94da967111f5b5c3c01b/Data/Solar_Atl_data.csv",
+      "path": "data/raw/Solar_Atl_data.csv",
+      "bytes": 613796,
+      "sha256": "ee92fb629215ed888e8106fd32eee431299f0315b2671957b5222e11a0c0bd76"
+    },
+    {
+      "url": "https://proceedings.mlr.press/v139/xu21h/xu21h.pdf",
+      "path": "references/xu-xie-2021-enbpi.pdf",
+      "bytes": 2930562,
+      "sha256": "d7f3850a67f7bc7d2326d2bff426130184272c802af6ae85e1d958f804b0568e"
+    }
+  ]
+}

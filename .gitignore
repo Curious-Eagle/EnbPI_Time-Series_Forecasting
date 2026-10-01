@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+data/raw/
+data/processed/
+.cache/
+.pytest_cache/
+pytest-cache-files-*/
+tmp/
+references/paper-extracted.txt
+references/xu-xie-2021-enbpi.pdf

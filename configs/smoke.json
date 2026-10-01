@@ -1,0 +1,11 @@
+{
+  "name": "solar_smoke",
+  "max_rows": 10000,
+  "train_fraction": 0.2,
+  "lags": 20,
+  "bootstraps": 30,
+  "trees": 10,
+  "max_depth": 2,
+  "seeds": [98765],
+  "alphas": [0.1]
+}

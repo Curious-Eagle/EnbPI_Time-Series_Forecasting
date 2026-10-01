@@ -1,0 +1,7 @@
+# Tested with Python 3.12; freeze of all installed packages is saved after setup.
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.6.1
+matplotlib==3.10.3
+pytest==8.3.5

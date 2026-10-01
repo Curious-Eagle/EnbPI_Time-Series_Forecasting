@@ -1,0 +1,2 @@
+method,alpha,coverage_mean,coverage_std,width_mean,width_std,interval_score_mean,mae_mean,trials,target_coverage,alpha_key,upstream_coverage,upstream_width,upstream_trials,coverage_difference_pp,width_difference
+EnbPI,0.1,0.9026826484018264,,256.9837371507592,,390.8932128653243,38.62723471864098,1,0.9,0.1,0.9024971461187213,256.6606309573129,10,0.018550228310509898,0.3231061934463355

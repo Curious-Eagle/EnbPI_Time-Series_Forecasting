@@ -1,0 +1,3 @@
+method,alpha,coverage_mean,coverage_std,width_mean,width_std,interval_score_mean,mae_mean,trials,target_coverage
+EnbPI,0.1,0.9026826484018264,,256.9837371507592,,390.8932128653243,38.62723471864098,1,0.9
+Frozen residual diagnostic,0.1,0.7923801369863014,,114.58334803942606,,453.3424975234372,38.62723471864098,1,0.9
